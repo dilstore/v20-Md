@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6288279268363'] // Put your number here
+global.owner = ['6285811521644'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -20,12 +20,14 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'https://pastelink.net/v20Md',
+  'https://api.xteam.xyz': 'KingOfBear',
   'https://api.lolhuman.xyz': 'rey2k21',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear3.herokuapp.com': 'https://pastelink.net/v20Md',
+  'https://apikey-bear.herokuapp.com': 'KingOfBear',
+  'https://apikey-bear2.herokuapp.com': 'KingOfBear',
+  'https://apikey-bear3.herokuapp.com': 'KingOfBear',
   'https://viko-api.herokuapp.com': 'vinko',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
@@ -38,9 +40,9 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'Yuki Bot'
-namalu = 'King Of Bear'
-footer = '\n©King Of Bear'
+namabot = '𝚅𝚒𝚍𝚒 ϟ 𝙿𝚛𝚒𝚟𝚊𝚝𝚎'
+namalu = 'Dz Modder Slebeww'
+footer = '\n©Dz Modder Slebew'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
